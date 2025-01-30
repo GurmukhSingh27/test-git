@@ -1,4 +1,4 @@
 # test-git
 practise git and github
 <br>
-Author - Gurmukh Singh Dadiala
+Author - Gurmukh Singh Dadiala (LPU)
